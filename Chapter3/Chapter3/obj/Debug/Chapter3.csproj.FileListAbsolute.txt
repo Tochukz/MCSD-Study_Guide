@@ -1,0 +1,7 @@
+C:\Users\Tochi\source\repos\Chapter3\Chapter3\bin\Debug\Chapter3.exe.config
+C:\Users\Tochi\source\repos\Chapter3\Chapter3\bin\Debug\Chapter3.exe
+C:\Users\Tochi\source\repos\Chapter3\Chapter3\bin\Debug\Chapter3.pdb
+C:\Users\Tochi\source\repos\Chapter3\Chapter3\obj\Debug\Chapter3.csprojResolveAssemblyReference.cache
+C:\Users\Tochi\source\repos\Chapter3\Chapter3\obj\Debug\Chapter3.csproj.CoreCompileInputs.cache
+C:\Users\Tochi\source\repos\Chapter3\Chapter3\obj\Debug\Chapter3.exe
+C:\Users\Tochi\source\repos\Chapter3\Chapter3\obj\Debug\Chapter3.pdb
