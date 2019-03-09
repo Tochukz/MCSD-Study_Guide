@@ -1,0 +1,14 @@
+C:/Users/Tochi/source/repos/Chapter2/Chapter2/bin/Debug/Chapter2.exe.config
+C:/Users/Tochi/source/repos/Chapter2/Chapter2/bin/Debug/Chapter2.exe
+C:/Users/Tochi/source/repos/Chapter2/Chapter2/bin/Debug/Chapter2.pdb
+C:/Users/Tochi/source/repos/Chapter2/Chapter2/obj/Debug/Chapter2.csprojResolveAssemblyReference.cache
+C:/Users/Tochi/source/repos/Chapter2/Chapter2/obj/Debug/Chapter2.csproj.CoreCompileInputs.cache
+C:/Users/Tochi/source/repos/Chapter2/Chapter2/obj/Debug/Chapter2.exe
+C:/Users/Tochi/source/repos/Chapter2/Chapter2/obj/Debug/Chapter2.pdb
+/home/chucks/source/repos/Chapter2/Chapter2/bin/Debug/Chapter2.exe.config
+/home/chucks/source/repos/Chapter2/Chapter2/bin/Debug/Chapter2.exe
+/home/chucks/source/repos/Chapter2/Chapter2/bin/Debug/Chapter2.pdb
+/home/chucks/source/repos/Chapter2/Chapter2/obj/Debug/Chapter2.csprojAssemblyReference.cache
+/home/chucks/source/repos/Chapter2/Chapter2/obj/Debug/Chapter2.csproj.CoreCompileInputs.cache
+/home/chucks/source/repos/Chapter2/Chapter2/obj/Debug/Chapter2.exe
+/home/chucks/source/repos/Chapter2/Chapter2/obj/Debug/Chapter2.pdb
