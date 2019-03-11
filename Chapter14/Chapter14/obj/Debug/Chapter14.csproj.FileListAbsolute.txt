@@ -1,0 +1,8 @@
+C:\Users\Tochi\source\repos\Chapter14\Chapter14\bin\Debug\Chapter14.exe.config
+C:\Users\Tochi\source\repos\Chapter14\Chapter14\bin\Debug\Chapter14.exe
+C:\Users\Tochi\source\repos\Chapter14\Chapter14\bin\Debug\Chapter14.pdb
+C:\Users\Tochi\source\repos\Chapter14\Chapter14\bin\Debug\MyCustomLibrary.dll
+C:\Users\Tochi\source\repos\Chapter14\Chapter14\obj\Debug\Chapter14.csprojResolveAssemblyReference.cache
+C:\Users\Tochi\source\repos\Chapter14\Chapter14\obj\Debug\Chapter14.csproj.CoreCompileInputs.cache
+C:\Users\Tochi\source\repos\Chapter14\Chapter14\obj\Debug\Chapter14.exe
+C:\Users\Tochi\source\repos\Chapter14\Chapter14\obj\Debug\Chapter14.pdb
