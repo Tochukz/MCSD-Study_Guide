@@ -1,0 +1,7 @@
+c:\users\tochi\source\repos\Chapter6\Chapter6\bin\Debug\Chapter6.exe.config
+c:\users\tochi\source\repos\Chapter6\Chapter6\bin\Debug\Chapter6.exe
+c:\users\tochi\source\repos\Chapter6\Chapter6\bin\Debug\Chapter6.pdb
+c:\users\tochi\source\repos\Chapter6\Chapter6\obj\Debug\Chapter6.csprojResolveAssemblyReference.cache
+c:\users\tochi\source\repos\Chapter6\Chapter6\obj\Debug\Chapter6.csproj.CoreCompileInputs.cache
+c:\users\tochi\source\repos\Chapter6\Chapter6\obj\Debug\Chapter6.exe
+c:\users\tochi\source\repos\Chapter6\Chapter6\obj\Debug\Chapter6.pdb
