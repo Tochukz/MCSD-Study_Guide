@@ -1,0 +1,7 @@
+c:\users\tochi\source\repos\Chapter10\Chapter10\bin\Debug\Chapter10.exe.config
+c:\users\tochi\source\repos\Chapter10\Chapter10\bin\Debug\Chapter10.exe
+c:\users\tochi\source\repos\Chapter10\Chapter10\bin\Debug\Chapter10.pdb
+c:\users\tochi\source\repos\Chapter10\Chapter10\obj\Debug\Chapter10.csprojResolveAssemblyReference.cache
+c:\users\tochi\source\repos\Chapter10\Chapter10\obj\Debug\Chapter10.csproj.CoreCompileInputs.cache
+c:\users\tochi\source\repos\Chapter10\Chapter10\obj\Debug\Chapter10.exe
+c:\users\tochi\source\repos\Chapter10\Chapter10\obj\Debug\Chapter10.pdb
