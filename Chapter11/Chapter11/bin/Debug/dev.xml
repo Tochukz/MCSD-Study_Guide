@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Developer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Chukz</Name>
+  <Salary>28000</Salary>
+  <Langs>
+    <string>C#</string>
+    <string>PHP</string>
+    <string>TypeScript</string>
+  </Langs>
+</Developer>

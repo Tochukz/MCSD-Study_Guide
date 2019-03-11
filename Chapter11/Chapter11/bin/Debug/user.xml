@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<user xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="1054375">
+  <education>
+    <string>Uniben</string>
+    <string>Wits</string>
+  </education>
+  <username>truetochukz</username>
+  <first_name>Tochukwu</first_name>
+  <last_name>Nwachukwu</last_name>
+  <email>truetochukz@gmail.com</email>
+  <city>Johannesburg</city>
+  <Options>
+    <hide_email>false</hide_email>
+    <hide_profile>false</hide_profile>
+    <hide_date_of_birth>true</hide_date_of_birth>
+  </Options>
+</user>

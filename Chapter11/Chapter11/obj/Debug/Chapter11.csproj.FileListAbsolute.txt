@@ -1,0 +1,7 @@
+C:\Users\Tochi\source\repos\Chapter11\Chapter11\obj\Debug\Chapter11.csprojResolveAssemblyReference.cache
+C:\Users\Tochi\source\repos\Chapter11\Chapter11\obj\Debug\Chapter11.csproj.CoreCompileInputs.cache
+C:\Users\Tochi\source\repos\Chapter11\Chapter11\bin\Debug\Chapter11.exe.config
+C:\Users\Tochi\source\repos\Chapter11\Chapter11\bin\Debug\Chapter11.exe
+C:\Users\Tochi\source\repos\Chapter11\Chapter11\bin\Debug\Chapter11.pdb
+C:\Users\Tochi\source\repos\Chapter11\Chapter11\obj\Debug\Chapter11.exe
+C:\Users\Tochi\source\repos\Chapter11\Chapter11\obj\Debug\Chapter11.pdb
