@@ -1,0 +1,7 @@
+C:\Users\Tochi\source\repos\Chapter8D\Chapter8D\bin\Debug\Chapter8D.exe.config
+C:\Users\Tochi\source\repos\Chapter8D\Chapter8D\bin\Debug\Chapter8D.exe
+C:\Users\Tochi\source\repos\Chapter8D\Chapter8D\bin\Debug\Chapter8D.pdb
+C:\Users\Tochi\source\repos\Chapter8D\Chapter8D\obj\Debug\Chapter8D.csprojResolveAssemblyReference.cache
+C:\Users\Tochi\source\repos\Chapter8D\Chapter8D\obj\Debug\Chapter8D.csproj.CoreCompileInputs.cache
+C:\Users\Tochi\source\repos\Chapter8D\Chapter8D\obj\Debug\Chapter8D.exe
+C:\Users\Tochi\source\repos\Chapter8D\Chapter8D\obj\Debug\Chapter8D.pdb
