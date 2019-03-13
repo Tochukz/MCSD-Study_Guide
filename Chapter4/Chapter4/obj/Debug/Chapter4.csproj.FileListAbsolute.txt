@@ -1,0 +1,7 @@
+C:\Users\Tochi\source\repos\Chapter4\Chapter4\bin\Debug\Chapter4.exe.config
+C:\Users\Tochi\source\repos\Chapter4\Chapter4\bin\Debug\Chapter4.exe
+C:\Users\Tochi\source\repos\Chapter4\Chapter4\bin\Debug\Chapter4.pdb
+C:\Users\Tochi\source\repos\Chapter4\Chapter4\obj\Debug\Chapter4.csprojResolveAssemblyReference.cache
+C:\Users\Tochi\source\repos\Chapter4\Chapter4\obj\Debug\Chapter4.csproj.CoreCompileInputs.cache
+C:\Users\Tochi\source\repos\Chapter4\Chapter4\obj\Debug\Chapter4.exe
+C:\Users\Tochi\source\repos\Chapter4\Chapter4\obj\Debug\Chapter4.pdb
