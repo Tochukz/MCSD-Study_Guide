@@ -1,0 +1,7 @@
+C:\Users\Tochi\source\repos\Chapter9\Chapter9\bin\Debug\Chapter9.exe.config
+C:\Users\Tochi\source\repos\Chapter9\Chapter9\bin\Debug\Chapter9.exe
+C:\Users\Tochi\source\repos\Chapter9\Chapter9\bin\Debug\Chapter9.pdb
+C:\Users\Tochi\source\repos\Chapter9\Chapter9\obj\Debug\Chapter9.csprojResolveAssemblyReference.cache
+C:\Users\Tochi\source\repos\Chapter9\Chapter9\obj\Debug\Chapter9.csproj.CoreCompileInputs.cache
+C:\Users\Tochi\source\repos\Chapter9\Chapter9\obj\Debug\Chapter9.exe
+C:\Users\Tochi\source\repos\Chapter9\Chapter9\obj\Debug\Chapter9.pdb
